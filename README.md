@@ -27,3 +27,12 @@ I am learning everything that interests me, like: Concurrency, High availability
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=react&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=ffffff)](https://flask.palletsprojects.com/en/1.1.x/)
+
+
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+[![](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=ffffff)](https://www.elastic.co/logstash)
