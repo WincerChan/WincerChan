@@ -2,7 +2,7 @@
 
 I'm Wincer.
 
-I am learning everything that interests me, like: Concurrency, High availability, Distributed computing.
+I am learning everything that interests me, Concurrency, High availability, Distributed computing, etc.
 
 ### Platform & Tools
 
@@ -36,3 +36,5 @@ I am learning everything that interests me, like: Concurrency, High availability
 [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=ffffff)](https://www.elastic.co/logstash)
+[![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=ffffff)](https://www.gatsbyjs.org/)
+[![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
