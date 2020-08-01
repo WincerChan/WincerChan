@@ -1,3 +1,5 @@
+I'm learning everything that interests me, like: Concurrency, High availability, Distributed computing.
+
 ### Platforms
 
 [![](https://img.shields.io/badge/Chrome%20OS-Pixelbook-4285f4?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://www.google.com/chromebook/chrome-os/)
@@ -16,3 +18,5 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](http://www.ecmascript.org/)
+
+### Skills
