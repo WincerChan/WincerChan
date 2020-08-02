@@ -1,6 +1,4 @@
-## Hi, there 👋
-
-I'm Wincer.
+## Hi, I'm Wincer 👋
 
 I am learning everything that interests me, Concurrency, High availability, Distributed computing, etc.
 
