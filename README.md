@@ -38,4 +38,9 @@ I am learning everything that interests me, Concurrency, High availability, Dist
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+```text
+Python       1 hr 17 mins    ████████████████████░░░░░   82.00 % 
+Go           13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+```
 <!--END_SECTION:waka-->
