@@ -35,3 +35,7 @@ I am learning everything that interests me, Concurrency, High availability, Dist
 [![](https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat-square&logo=elastic-stack&logoColor=ffffff)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=ffffff)](https://www.gatsbyjs.org/)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
