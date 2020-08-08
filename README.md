@@ -5,7 +5,7 @@ I am learning everything that interests me, Concurrency, High availability, Dist
 ### Platform & Tools
 
 [![](https://img.shields.io/badge/Chrome%20OS-Pixelbook-4285f4?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://www.google.com/chromebook/chrome-os/)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://hackintosh.com/)
+[![](https://img.shields.io/badge/macOS-Catalina-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://hackintosh.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/FreeBSD-12.0-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freebsd.org/)
 
