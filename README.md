@@ -1,6 +1,6 @@
 ## Hi, I'm Wincer 👋
 
-I am learning everything that interests me, Concurrency, High availability, Distributed computing, etc.
+I will learn anything that interests me.
 
 ### Platform & Tools
 
