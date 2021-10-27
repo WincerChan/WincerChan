@@ -39,7 +39,6 @@ I will learn anything that interests me.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 58 mins    ███████████████████▓░░░░░   79.25 % 
-CSS          29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
