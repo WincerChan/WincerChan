@@ -39,6 +39,7 @@ I will learn anything that interests me.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust       2 hrs 3 mins    ███████████████████████▓░   95.19 % 
+TOML       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 <!--END_SECTION:waka-->
