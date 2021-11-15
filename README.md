@@ -39,8 +39,6 @@ I will learn anything that interests me.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Elixir   53 mins         █████████████████░░░░░░░░   67.60 % 
-XML      20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.70 % 
-YAML     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
