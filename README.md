@@ -39,6 +39,8 @@ I will learn anything that interests me.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Elixir       27 mins         ██████████▒░░░░░░░░░░░░░░   40.96 % 
+Other        20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.06 % 
+Jinja2       16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.25 % 
 ```
 <!--END_SECTION:waka-->
