@@ -40,12 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Python    3 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
-Elixir    1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-YAML      1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Jinja2    35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Config    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-systemd   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python       2 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Elixir       1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+YAML         1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+HTML         1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Other        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
