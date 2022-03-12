@@ -40,10 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       9 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
-YAML         7 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-HTML         6 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other        3 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Svelte       8 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
+YAML         8 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+Other        3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 ```
 
 <!--END_SECTION:waka-->
