@@ -40,8 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       8 hrs 50 mins   ████████████████░░░░░░░░░   63.94 %
-Other        3 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+Elixir       8 hrs 5 mins    ██████████████░░░░░░░░░░░   55.97 %
+Other        4 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.66 %
 ```
 
 <!--END_SECTION:waka-->
