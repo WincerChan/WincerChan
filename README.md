@@ -40,9 +40,7 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       10 mins         ████████████▓░░░░░░░░░░░░   51.14 %
-JavaScript   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Other        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
