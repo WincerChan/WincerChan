@@ -40,7 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML     11 mins         ██████████████▓░░░░░░░░░░   58.51 %
+Python   7 mins          ██████████░░░░░░░░░░░░░░░   39.54 %
+Go       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
