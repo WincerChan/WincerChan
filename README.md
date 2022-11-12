@@ -40,9 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       12 hrs 8 mins   █████████████████░░░░░░░░   67.77 %
-Python       4 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Elixir      7 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.81 %
+Python      3 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
+Other       3 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
 ```
 
 <!--END_SECTION:waka-->
