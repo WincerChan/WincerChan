@@ -40,7 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Other      1 hr 29 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+Go         1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+Other      1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
 ```
 
 <!--END_SECTION:waka-->
