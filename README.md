@@ -40,9 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       36 mins         ██████████▒░░░░░░░░░░░░░░   40.83 %
-Python       29 mins         ████████░░░░░░░░░░░░░░░░░   32.66 %
-Other        14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Svelte       36 mins         ██████████▓░░░░░░░░░░░░░░   42.97 %
+Python       29 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
+Other        14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
 ```
 
 <!--END_SECTION:waka-->
