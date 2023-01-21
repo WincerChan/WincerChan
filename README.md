@@ -40,9 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Go           4 hrs 7 mins    ████████████████░░░░░░░░░   64.42 %
-Svelte       1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Go           1 hr 54 mins    ████████████▒░░░░░░░░░░░░   48.97 %
+Svelte       1 hr 23 mins    █████████░░░░░░░░░░░░░░░░   35.95 %
+Jinja2       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Python       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
