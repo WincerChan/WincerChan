@@ -40,9 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Go       1 hr 54 mins    █████████████████████▓░░░   86.07 %
-Jinja2   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Jinja2   14 mins         ████████████████████████▓   98.23 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
