@@ -40,7 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Svelte   2 mins          ███████████████████████▓░   94.07 %
+Rust     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
