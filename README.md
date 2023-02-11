@@ -40,11 +40,12 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-YAML         1 hr 28 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 %
-Markdown     1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-JavaScript   53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-Svelte       43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+TypeScript   1 hr 53 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+Svelte       1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+YAML         1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+Markdown     1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+JavaScript   1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
