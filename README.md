@@ -40,10 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Python       22 hrs 31 mins  ███████████████████████▓░   94.12 %
-TOML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Python       21 hrs 36 mins  ███████████████████████░░   91.98 %
+Go           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+TOML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
