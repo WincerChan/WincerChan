@@ -40,11 +40,10 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-Astro        3 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
-Python       2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-JavaScript   2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Go           1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Other        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Python       2 hrs 31 mins   ███████████░░░░░░░░░░░░░░   43.72 %
+Go           1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Astro        37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Other        34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
 ```
 
 <!--END_SECTION:waka-->
