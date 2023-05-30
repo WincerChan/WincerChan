@@ -40,8 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         4 mins          ████████████████░░░░░░░░░   63.75 %
-TypeScript   2 mins          █████████░░░░░░░░░░░░░░░░   36.25 %
+TypeScript   8 mins          ███████████████▓░░░░░░░░░   62.06 %
+JSON         5 mins          █████████▒░░░░░░░░░░░░░░░   37.94 %
 ```
 
 <!--END_SECTION:waka-->
