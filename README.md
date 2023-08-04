@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir       6 hrs 19 mins   ██████████████████████░░░   87.77 %
-TypeScript   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Elixir       9 hrs 46 mins   ██████████████████████▓░░   90.94 %
+TypeScript   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
