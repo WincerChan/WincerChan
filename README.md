@@ -40,7 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript     1 hr 24 mins    ███████████████████▓░░░░░   79.05 %
+Elixir         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+JSON           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+XML            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
