@@ -40,9 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir             2 hrs 6 mins    ███████████████████████▓░   94.94 %
-Java Server Page   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Python             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Elixir   11 mins         █████████████████████░░░░   83.72 %
+Python   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
