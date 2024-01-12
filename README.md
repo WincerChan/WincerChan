@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Go           5 hrs 12 mins   █████████████████░░░░░░░░   67.90 %
-JavaScript   1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Python       36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-TypeScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Go           3 hrs 32 mins   ████████████████▓░░░░░░░░   66.90 %
+JavaScript   1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+TypeScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Python       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
