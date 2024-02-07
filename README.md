@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Go            14 hrs 11 mins  ████████▒░░░░░░░░░░░░░░░░   32.74 %
-Common Lisp   10 hrs 46 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-C             9 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-Rust          4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Python        2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Go            17 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.97 %
+C             7 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Common Lisp   4 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Rust          3 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Python        2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
