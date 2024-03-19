@@ -40,11 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Common Lisp   2 hrs 11 mins   ████████████████▓░░░░░░░░   66.73 %
-C             31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Rust          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Python        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Elixir        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Elixir   8 mins          █████████████████████▒░░░   85.35 %
+Other    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
 ```
 
 <!--END_SECTION:waka-->
