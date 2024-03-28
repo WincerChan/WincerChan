@@ -40,7 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins          █████████████████████████   100.00 %
+Elixir       1 hr 41 mins    ██████████████████▒░░░░░░   72.69 %
+Bash         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+TypeScript   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Python       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
