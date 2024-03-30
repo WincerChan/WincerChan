@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir       1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   34.93 %
-TOML         1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-Rust         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Bash         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Elixir       1 hr 42 mins    ████████▒░░░░░░░░░░░░░░░░   33.93 %
+TOML         1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Rust         54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Python       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
