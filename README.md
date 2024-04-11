@@ -40,10 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    1 hr 46 mins    █████████████▒░░░░░░░░░░░   53.81 %
-Bash    1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   35.95 %
-Other   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-TOML    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Bash    1 hr 11 mins    █████████████████████▒░░░   84.90 %
+Other   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
 ```
 
 <!--END_SECTION:waka-->
