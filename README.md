@@ -40,10 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Go       49 mins         ████████████████████░░░░░   79.36 %
-Other    12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Go       49 mins         █████████████████████████   99.51 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
