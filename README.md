@@ -40,11 +40,7 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 6 mins     ████████████████████░░░░░   80.11 %
-JSON         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-CSS          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-MDX          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
