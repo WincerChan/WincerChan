@@ -40,7 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs          ████████████████████████▓   98.62 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
