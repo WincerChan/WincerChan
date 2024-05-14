@@ -40,8 +40,10 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ████████████████████████▓   98.62 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Rust     2 hrs 46 mins   █████████████████████████   99.77 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
