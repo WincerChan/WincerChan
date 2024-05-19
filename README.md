@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 21 mins   █████████████████▒░░░░░░░   69.45 %
-Other        1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-Text         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-SSH Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Rust          3 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.27 %
+Other         1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Python        53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Common Lisp   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Text          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
