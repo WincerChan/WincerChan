@@ -40,9 +40,8 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Other         8 mins          █████████████████████████   99.56 %
-Rust          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Common Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other         6 mins          █████████████████████████   99.76 %
+Common Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
