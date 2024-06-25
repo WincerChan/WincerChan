@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Other     1 hr 34 mins    ██████████▓░░░░░░░░░░░░░░   42.72 %
-Text      1 hr 22 mins    █████████▒░░░░░░░░░░░░░░░   37.51 %
-Python    30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-YAML      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Todotxt   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Text          1 hr 17 mins    ███████░░░░░░░░░░░░░░░░░░   27.92 %
+Other         1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Python        56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Docker        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Todotxt       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
