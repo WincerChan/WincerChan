@@ -40,9 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    32 hrs 12 mins  ██████████████████░░░░░░░   71.99 %
-JavaScript    8 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-JSON          1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+TypeScript    31 hrs 15 mins  █████████████████▒░░░░░░░   69.84 %
+JavaScript    8 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+JSON          2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 Bash          42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Git Config    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
