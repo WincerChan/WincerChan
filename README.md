@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust          14 hrs 42 mins  █████████████████▒░░░░░░░   69.06 %
-C             1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-TypeScript    1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Elixir        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JSON          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Rust          16 hrs 19 mins  █████████████████▓░░░░░░░   71.25 %
+C             1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+TypeScript    1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Elixir        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+JSON          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
