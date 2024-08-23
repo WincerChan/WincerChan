@@ -40,8 +40,7 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 40 mins   ████████████████████████▓   98.78 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Rust   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
