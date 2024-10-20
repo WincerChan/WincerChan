@@ -40,7 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON    40 mins         █████████████████░░░░░░░░   67.89 %
+Rust    13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+jsonc   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
 ```
 
 <!--END_SECTION:waka-->
