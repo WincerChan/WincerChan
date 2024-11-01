@@ -40,11 +40,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 43 mins   ██████████████████████▒░░   88.94 %
-JavaScript   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-jsonc        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   11 hrs 26 mins  ████████████████████████▓   98.84 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+jsonc        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
