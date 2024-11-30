@@ -40,9 +40,10 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     7 mins          ██████████████░░░░░░░░░░░   56.46 %
-jsonc    3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-Python   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+JSON         7 mins          ██████████░░░░░░░░░░░░░░░   40.48 %
+TypeScript   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.30 %
+jsonc        3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+Python       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
 ```
 
 <!--END_SECTION:waka-->
