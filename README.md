@@ -40,8 +40,7 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     4 mins          ████████████████████████▓   98.85 %
-shell script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
