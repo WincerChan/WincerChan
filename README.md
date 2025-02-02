@@ -40,7 +40,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       2 mins          ███████████████████████░░   92.36 %
+TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
