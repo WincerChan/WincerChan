@@ -39,9 +39,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Common Lisp   2 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.34 %
-Python        2 hrs 48 mins   ██████████▓░░░░░░░░░░░░░░   42.27 %
-Markdown      53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Python        4 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.42 %
+Common Lisp   2 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 %
+Markdown      56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 ```
 
 <!--END_SECTION:waka-->
