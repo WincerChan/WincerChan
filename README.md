@@ -39,10 +39,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-Python        4 hrs 28 mins   █████████████████▓░░░░░░░   70.14 %
-Markdown      56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Common Lisp   55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-jsonc         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   3 hrs 22 mins   █████████████░░░░░░░░░░░░   51.40 %
+Python       2 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.19 %
+Markdown     52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+jsonc        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
