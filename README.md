@@ -39,10 +39,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    7 hrs 56 mins   ████████████████████████▒   96.97 %
-CSS           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript     10 hrs 2 mins   ██████████████████████▓░░   90.53 %
+JSON           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+CSS            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Bash           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
