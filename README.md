@@ -39,7 +39,9 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   36 mins         ███████████████████████▓░   94.67 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
