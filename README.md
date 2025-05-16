@@ -39,9 +39,11 @@ I will learn anything that interests me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   36 mins         ███████████████████████▓░   94.67 %
-JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript   54 mins         ████████████▒░░░░░░░░░░░░   49.58 %
+JavaScript   25 mins         ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+JSON         15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Bash         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
